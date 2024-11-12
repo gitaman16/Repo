@@ -1,6 +1,6 @@
 # Vector Dot Product Algorithm
 
-This project implements the **Vector Dot Product** algorithm in Python. Below is the mathematical expression, example code, and performance comparison of different versions of the algorithm.
+This project implements the **Vector Dot Product** algorithm in Python. Below is the mathematical expression, example code of the algorithm.
 
 ## Mathematical Expression
 
