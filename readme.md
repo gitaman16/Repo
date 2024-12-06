@@ -1,4 +1,4 @@
-# Vector Dot Product Algorithm
+# Vector Dot 
 
 This project implements the **Vector Dot Product** algorithm in Python. Below is the mathematical expression, example code of the algorithm.
 
